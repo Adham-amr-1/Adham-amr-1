@@ -16,7 +16,7 @@
 
 - 🏢 I'm a Embedded System Developer and a Learner in Machine Learning  Field
 - 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, C language, Python, and Computer Architecture, or anything related to Embedded System and Elecronics.
+- 💬 Ask me about my experience with C++, C language, Python, and Computer Architecture, or anything related to Embedded System and Electronics.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 I'm also a Youtuber ... check my Channel at [https://www.youtube.com/channel/UCv7Q3BEFs9omEcE4Nm_2iDg](https://www.youtube.com/channel/UCv7Q3BEFs9omEcE4Nm_2iDg)
 
