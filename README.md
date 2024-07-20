@@ -40,6 +40,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino)&nbsp;
 ![Spyder](https://img.shields.io/badge/-Spyder%20-05122A?style=flat&logo=Spyder)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse%20-05122A?style=flat&logo=Eclipse)&nbsp;
+![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20-05122A?style=flat&logo=Jupyter)&nbsp;
 
 
 
