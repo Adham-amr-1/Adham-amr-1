@@ -39,6 +39,7 @@
 ![Atmel Studio](https://img.shields.io/badge/-Atmel%20Studio%20-05122A?style=flat&logo=atmelstudio)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino)&nbsp;
 ![Spyder](https://img.shields.io/badge/-Spyder%20-05122A?style=flat&logo=Spyder)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse%20-05122A?style=flat&logo=Eclipse)&nbsp;
 
 
 
