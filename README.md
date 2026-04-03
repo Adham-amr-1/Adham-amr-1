@@ -13,11 +13,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer%20;Keep%20It%20Simple%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
 </p>
-Hello and Welcome to my Account
+- Hello and Welcome to my Account
+
 - 🏢 I'm an Embedded System Developer and a Software Developer specialized in C++
+- 
 - 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 
 - 💬 Ask me about my experience with C++, C language, Python, and Computer Architecture, or anything related to Embedded Systems and Electronics.
+- 
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
+  
 
 
 ### Connect with Me :
