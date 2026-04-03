@@ -10,14 +10,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20System%20Developer%20;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Linux%20Learner;Always%20looking%20for%20new%20challenges&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer%20;Keep%20It%20Simple%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
 </p>
-
-- 🏢 I'm a Embedded System Developer and a Learner in Embedded Linux, Drive Train  Fields
+Hello and Welcome to my Account
+- 🏢 I'm an Embedded System Developer and a Software Developer specialized in C++
 - 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, C language, Python, and Computer Architecture, or anything related to Embedded System and Electronics.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 💬 Ask me about my experience with C++, C language, Python, and Computer Architecture, or anything related to Embedded Systems and Electronics.
+- ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
 
 
 ### Connect with Me :
