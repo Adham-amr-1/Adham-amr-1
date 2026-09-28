@@ -1,194 +1,502 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:f75c7e&height=220&section=header&text=Adham%20Amr%20Mohamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer&descAlignY=58&descSize=20" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Control+Systems;Embedded+IoT+%26+Automotive+Systems;Motor+Control+%7C+Real-Time+Firmware;Network+%26+Light+Current+Engineer&font=Fira+Code&center=true&width=620&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG"/>
-</p>
+# Hi, I'm Adham Amr Mohamed 👋
 
-<p align="center">
-  <a href="mailto:adhamamrts@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adham-amr-6aa10221a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/Adhooom_1"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/Adham-amr-1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### Embedded Systems Engineer | Network & Light Current Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Graduation%20Project-93%25%20Excellent-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MIE%202026-Finalist-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square"/>
-</p>
+**Embedded Control Systems • Embedded IoT • Automotive Systems • Networking • Light Current • R&D**
 
----
+<br>
 
-## 👋 About Me
+<a href="mailto:adhamamrts@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/adham-amr-/">
+<img src="https://img.shields.io/badge/LinkedIn-Adham%20Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Adham-amr-1">
+<img src="https://img.shields.io/badge/GitHub-Adham--amr--1-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-I am a fresh graduate **Embedded Systems Engineer** (Communication and Electronics Engineering, Helwan University, 2026) with 2+ years of hands-on work in firmware and R&D on **STM32, AVR and ESP32**. I build bare-metal drivers, real-time control loops and IoT systems, and I test them on real hardware.
-
-| | |
-|---|---|
-| 🎯 **Fields** | Embedded Systems · Embedded Control Systems · Embedded IoT · Automotive Systems |
-| 🏢 **Now** | Network and Light Current Engineer at Future Smart System, Cairo |
-| 🚗 **Built** | AI-enhanced Adaptive Cruise Control (led a 4-member team) |
-| 🎓 **Trained** | Embedded Linux (Yocto), AVR, IoT Diploma, AI (NTI), Wireless IoT (ITI) |
-| ☕ **Fun fact** | My perfect day starts and ends with a cup of coffee |
+</div>
 
 ---
 
-## 🚀 Featured Project: AI-Enhanced Adaptive Cruise Control
+## 👨‍💻 About Me
 
-A dual-layer embedded ACC system validated on real hardware and aligned with **ISO 15622:2018** and **ISO 26262:2018**.
+I'm a **Fresh Graduate Electronics & Communication Engineer** specialized in **Embedded Systems and Embedded Control**, with hands-on experience across firmware development, microcontrollers, IoT, automotive control systems, networking, and light-current systems.
 
-```mermaid
-flowchart LR
-    A[Camera] --> B[Object and Lane Detection]
-    B --> C[Kalman Filter Sensor Fusion]
-    C --> D["MPC Controller<br/>Raspberry Pi 5 (OSQP)"]
-    D -- "Custom 8-byte UART" --> E["PID Controller<br/>ESP32"]
-    F[Quadrature Encoder] --> E
-    E --> G[MCPWM Motor Drive]
-    D --> H[Telemetry and FOTA]
+My main engineering interests are:
+
+* 🔧 Embedded Systems & Firmware Development
+* 🎛️ Embedded Control Systems
+* 🌐 Embedded IoT Systems
+* 🚗 Automotive & ADAS Systems
+* 📡 Networking & Network Infrastructure
+* 📹 CCTV & Surveillance Systems
+* 🔐 Access Control & Security IoT
+* ⚡ Light Current Systems
+* 🧩 PCB Design & Hardware Development
+* 🖥️ Raspberry Pi & Embedded Linux
+* 🛠️ Hardware Troubleshooting & Repair
+* 📐 Electrical Design & AutoCAD
+
+I enjoy taking a system from **concept → design → implementation → integration → testing → deployment**.
+
+---
+
+## 🚀 What I Do
+
+### Embedded Systems
+
+I develop firmware and embedded applications using:
+
+* C / C++ / Embedded C
+* STM32
+* ESP32
+* AVR / ATmega32
+* Raspberry Pi
+* FreeRTOS
+* Bare-Metal Programming
+* Peripheral Drivers
+* Interrupt-Based Systems
+* UART / SPI / I2C
+* PWM / ADC / Timers
+
+### Embedded Control & Automotive
+
+My work includes:
+
+* PID Controllers
+* MPC Controllers
+* BLDC Motor Control
+* SPWM
+* 6-Step Commutation
+* Sensor Fusion
+* Automotive Embedded Systems
+* ADAS Concepts
+* Adaptive Cruise Control
+* Real-Time Control
+
+### IoT & Connected Systems
+
+I'm interested in building connected embedded systems using:
+
+* MQTT
+* HTTP / HTTPS
+* Wi-Fi
+* Bluetooth
+* ESP32
+* Raspberry Pi
+* Telemetry Systems
+* FOTA / OTA Updates
+* IoT Security
+
+### Network & Light Current
+
+In my current work, I deal with practical infrastructure and light-current systems including:
+
+* 🌐 Network Infrastructure
+* 🔌 Network Cabling & Connectivity
+* 📡 Routers & Switches
+* 📹 CCTV Systems
+* 🔐 Access Control Systems
+* 🖥️ Surveillance Displays
+* 📺 Screens connected to cameras for advertising / monitoring
+* 🛠️ Network troubleshooting and deployment
+* 🔧 System installation, configuration and integration
+
+I also work on customer-specific requirements involving the programming, configuration and integration of **routers, switches, Raspberry Pi systems, displays and camera-connected devices**.
+
+---
+
+## 🎓 Graduation Project
+
+# AI-Enhanced Adaptive Cruise Control System
+
+### Integrated Telemetry & FOTA
+
+My graduation project focused on developing a real-world **Adaptive Cruise Control prototype** combining AI perception, embedded control and automotive communication.
+
+### System Architecture
+
+```text
+        Camera / Radar / Sensors
+                  │
+                  ▼
+        ┌─────────────────────┐
+        │   Raspberry Pi 5    │
+        │ AI + MPC Controller │
+        └──────────┬──────────┘
+                   │
+              Custom UART
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │       ESP32         │
+        │ PID + Motor Control │
+        └──────────┬──────────┘
+                   │
+                   ▼
+              BLDC Motor
 ```
 
-<table>
-  <tr>
-    <td width="50%">
+### Key Technologies
 
-**🧠 Optimization layer (Raspberry Pi 5)**
-- MPC model derived from first principles
-- OSQP solver with hard safety constraints
-- Object detection, lane detection, sensor fusion
+* Raspberry Pi 5
+* ESP32
+* STM32
+* MPC Controller
+* PID Controller
+* YOLO-based object detection
+* Lane Detection
+* Kalman Filter Sensor Fusion
+* BLDC Motor Control
+* MCPWM
+* Quadrature Encoder
+* Custom UART Protocol
+* MQTT Telemetry
+* FOTA / OTA Pipeline
+* Embedded Linux
+* C / C++
+* Python
 
-    </td>
-    <td width="50%">
+### My Contribution
 
-**⚙️ Actuation layer (ESP32)**
-- Tustin-discretized PID with anti-windup clamping
-- MCPWM output with quadrature encoder feedback
-- Modular C++ OOP driver library for sensors and control
+* 👨‍💻 Led a **4-member engineering team**
+* Designed the overall embedded system architecture
+* Derived and implemented the MPC controller
+* Deployed an OSQP-based MPC controller on Raspberry Pi 5
+* Developed a Tustin-discretized PID controller on ESP32
+* Implemented anti-windup control
+* Developed MCPWM motor control
+* Implemented quadrature encoder feedback
+* Designed a custom 8-byte UART communication protocol
+* Developed modular C++ driver architecture
+* Integrated AI perception with embedded control
+* Built telemetry and FOTA infrastructure
+* Validated the complete system on real hardware
 
-    </td>
-  </tr>
-</table>
+### Repository
 
-**Features:** automatic speed control · cut-in braking · lane curvature monitoring · remote telemetry · FOTA updates
-
-🏆 Finalist graduation team, Made in Egypt (MIE) Competition 2026
-
-<a href="https://github.com/DriveX-Innovation/AI-Enhanced_ACC_with_Integrated_Telemetry_and_FOTA"><img src="https://img.shields.io/badge/View%20Repository-f75c7e?style=for-the-badge&logo=github&logoColor=white"/></a>
+🔗 **[AI-Enhanced ACC with Integrated Telemetry and FOTA](https://github.com/DriveX-Innovation/AI-Enhanced_ACC_with_Integrated_Telemetry_and_FOTA)**
 
 ---
 
-## 🔧 More Projects
+## 🔥 Featured Projects
 
-<table>
+### 🚗 AI-Enhanced Adaptive Cruise Control
 
-### ⚡ BLDC Sinusoidal PWM
-STM32 Cortex-M4, Embedded C. SPWM drive with smoother torque and lower acoustic noise than trapezoidal control.
+AI-powered automotive embedded control system combining:
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Control-BLDC-Sinusoidal_PWM)
+**AI Perception + MPC + PID + BLDC + Telemetry + FOTA**
 
-### 🔁 BLDC Trapezoidal PWM
-STM32 Cortex-M3, Embedded C. 6-step commutation with reliable startup and stable operation under varying load.
+[View Project →](https://github.com/DriveX-Innovation/AI-Enhanced_ACC_with_Integrated_Telemetry_and_FOTA)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Control-BLDC-Trapezoidal_PWM)
+---
 
+### ⚙️ BLDC Motor Control — Sinusoidal PWM
 
-### 🚙 Autonomous RC Car
-AVR ATmega32, Embedded C. Obstacle avoidance with GPIO, timer-based ultrasonic sensing and PWM motor control. Verified in Proteus and on hardware.
+STM32-based BLDC motor controller implementing **SPWM** for smoother motor operation and reduced acoustic noise.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Embedded-RC-Car-Updated-Version)
+**Technologies:**
+
+`STM32` `C` `PWM` `Timers` `BLDC` `SPWM`
+
+[View Project →](https://github.com/Adham-amr-1/Control-BLDC-Sinusoidal_PWM)
+
+---
+
+### ⚙️ BLDC Motor Control — Trapezoidal PWM
+
+Implemented **6-step trapezoidal commutation** for BLDC motor control using STM32.
+
+**Technologies:**
+
+`STM32` `Embedded C` `PWM` `GPIO` `Timers`
+
+[View Project →](https://github.com/Adham-amr-1/Control-BLDC-Trapezoidal_PWM)
+
+---
+
+### 🤖 Autonomous Embedded RC Car
+
+Bare-metal AVR-based autonomous vehicle with multi-sensor obstacle avoidance.
+
+**Technologies:**
+
+`ATmega32` `Embedded C` `Ultrasonic Sensors` `PWM` `Timers` `Proteus`
+
+[View Project →](https://github.com/Adham-amr-1/Embedded-RC-Car-Updated-Version)
+
+---
 
 ### 📡 Multi-Directional Distance Detection
-One MCU controlling multiple ultrasonic sensors with optimized processing and GPIO usage.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Multi_Ultrasonic_in_one_MC)
+Multi-ultrasonic sensor system controlled by a single MCU with optimized GPIO and processing usage.
 
-</table>
-
----
-
-## 💼 Experience
-
-### 🏢 Network and Light Current Engineer | Future Smart System (Aug 2026 to Present)
-- Install and configure **Access Control Systems** and **CCTV Systems**
-- Build networks on site: cabling, connections and device configuration
-- Program **routers, switches and Raspberry Pi** to match client requirements
-- Set up advertising screens connected to cameras
-- Disassemble, repair and upgrade PCs and laptops, including part replacement
-
-### 🤖 Robotics Coach | WiroPlus (Dec 2024 to Jan 2026)
-- Delivered electronics and robotics curricula to **50+ students**, with 4+ hardware projects per semester
-- Increased student engagement by **~25%** through project-based learning
-
-### 🏎️ Electric and Embedded Systems Member | E-Rally (Oct 2024 to Sep 2025)
-- Bare-metal STM32 firmware with PWM and GPIO drivers for an EV rally motor drive
-- 6-step commutation, verified with oscilloscope measurements and signal tracing
-
-### 🌐 R&D Volunteer and RAS Project Supervisor | IEEE Helwan (Sep 2023 to Sep 2025)
-- Led firmware projects at IEEE events and mentored participants across Egypt
-- Supervised student teams building firefighting robots and sensor automation in C and Arduino
-
-### ATM Maintenance Technician | Raya IT (Internships 2022 and 2023)</b></summary>
-
-- Maintained and repaired 20+ ATM machines, diagnosing board-level, component-level and firmware faults
-- Trained and guided 5+ junior technicians during field operations
+[View Project →](https://github.com/Adham-amr-1/Multi_Ultrasonic_in_one_MC)
 
 ---
 
-## 🛠 Tech Stack
+## 🏢 Professional Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,linux,git,github,docker,vscode,raspberrypi,arduino&theme=dark" />
-</p>
+### Network & Light Current Engineer
 
-| Area | Skills |
-|------|--------|
-| **Microcontrollers** | STM32 (Cortex-M3/M4) · AVR ATmega32 · ESP32 (ESP-IDF) · Arduino |
-| **Firmware** | Bare-metal · HAL design · Peripheral drivers · Interrupts · Timers · ADC · PWM · FreeRTOS |
-| **Embedded Linux** | Device drivers · Yocto · Linux system programming · Raspberry Pi 5 |
-| **Protocols** | UART · SPI · I2C · MQTT · HTTP · Wi-Fi · Bluetooth |
-| **Control** | BLDC control · PID · MPC (OSQP) · Power electronics |
-| **Standards** | ISO 26262 · ISO 15622 |
-| **Tools** | STM32CubeIDE · ESP-IDF · Proteus · MATLAB/Simulink · KiCad · Oscilloscope · Logic Analyzer |
-| **Field skills** | Access Control · CCTV · Structured Cabling · Router and Switch Config · PC Hardware Repair |
+**Future Smart System — Cairo**
 
----
+Working on real-world customer projects involving:
 
-## 🌱 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PCB%20Design-in%20progress-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Secure%20IoT%20Projects-in%20progress-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoCAD%20Electrical-in%20progress-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CAN%20Bus-in%20progress-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT%20Diploma-ongoing-blueviolet?style=for-the-badge"/>
-</p>
+* Network infrastructure
+* Routers & switches
+* Network configuration and deployment
+* CCTV systems
+* Access control systems
+* Camera-connected displays
+* Raspberry Pi systems
+* Customer-specific embedded solutions
+* Hardware/software integration
+* Troubleshooting and field implementation
 
 ---
 
-## 🏆 Awards
+### Robotics Coach / Instructor
 
-- 🥇 Finalist Graduation Team, Made in Egypt (MIE) Competition, Jul 2026
-- 🏎️ Best Electric Sub-Team Member of the Month, E-Rally, Jul 2025
-- 🌟 Best R&D Volunteer First Phase S'25, IEEE HSB, Oct 2024
-- 🤖 2nd Place and Best Code, Sumo-Robot Competition, Dec 2023
+**WiroPlus**
+
+* Delivered electronics and robotics training
+* Mentored 50+ students
+* Designed hands-on hardware projects
+* Guided students through debugging and root-cause analysis
+* Taught practical hardware/software integration
 
 ---
 
-## 📫 Let's Work Together
+### ATM Maintenance Technician
 
-Open to junior **embedded, firmware and automotive** roles. I am also available for network and light current projects.
+**Raya IT**
 
-<p align="center">
-  <a href="mailto:adhamamrts@outlook.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adham-amr-6aa10221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+Hands-on experience in:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adham-amr-1&style=for-the-badge&color=f75c7e" />
-</p>
+* Board-level troubleshooting
+* Component-level diagnosis
+* Firmware-related troubleshooting
+* Hardware maintenance
+* Systematic fault isolation
+* Field maintenance
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f75c7e,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+---
+
+## 🧰 Hardware & Technical Skills
+
+### Microcontrollers
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square\&logo=stmicroelectronics\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square\&logo=arduino\&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-Embedded-blue?style=flat-square)
+
+### Programming
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
+
+### Embedded
+
+`Bare-Metal` `HAL` `FreeRTOS` `Interrupts` `Timers` `ADC` `PWM`
+
+### Communication
+
+`UART` `SPI` `I2C` `MQTT` `HTTP` `Wi-Fi` `Bluetooth`
+
+### Linux & Development
+
+`Linux` `Embedded Linux` `Yocto` `Raspberry Pi` `Git` `GitHub` `Docker`
+
+### Engineering Tools
+
+`STM32CubeIDE` `ESP-IDF` `Proteus` `MATLAB/Simulink` `KiCad` `Oscilloscope` `Logic Analyzer`
+
+---
+
+## 🌐 Networking & Light Current
+
+Beyond embedded development, I'm building practical experience in:
+
+```text
+Network Infrastructure
+        │
+        ├── Routers
+        ├── Switches
+        ├── Network Cabling
+        ├── Configuration
+        └── Troubleshooting
+
+Light Current
+        │
+        ├── CCTV
+        ├── Access Control
+        ├── Surveillance
+        ├── Displays
+        └── Security Systems
+```
+
+My goal is to combine **Embedded Systems + IoT + Networking + Security + Automation** to build complete engineering solutions rather than isolated devices.
+
+---
+
+## 🔐 Security & IoT
+
+Currently developing my knowledge in:
+
+* Secure IoT architectures
+* Security-focused embedded projects
+* Network security fundamentals
+* Access Control systems
+* CCTV infrastructure
+* Secure communication
+* IoT authentication
+* OTA / FOTA security
+
+---
+
+## 🧩 PCB & Hardware Development
+
+Currently improving my skills in:
+
+* PCB Design
+* KiCad
+* Schematic Design
+* PCB Layout
+* Hardware debugging
+* Component selection
+* Hardware bring-up
+
+---
+
+## 📐 Electrical Design
+
+Currently learning:
+
+* AutoCAD Electrical
+* Electrical schematics
+* Cable routing
+* System wiring
+* Panel documentation
+* Electrical installation drawings
+
+---
+
+## 🔧 Hardware Repair & Troubleshooting
+
+I also have hands-on experience with computer and laptop hardware, including:
+
+* Hardware diagnostics
+* PC/Laptop disassembly
+* Component replacement
+* RAM / Storage replacement
+* Cooling system maintenance
+* Hardware troubleshooting
+* Identifying faulty components
+
+---
+
+## 📚 Currently Learning
+
+```text
+PCB Design
+      ↓
+Secure IoT Systems
+      ↓
+Networking & Network Infrastructure
+      ↓
+CCTV & Access Control
+      ↓
+AutoCAD Electrical
+      ↓
+Advanced Embedded Linux
+```
+
+---
+
+## 🏆 Achievements
+
+* 🥈 **2nd Place & Best Code — Sumo Robot Competition**
+* 🏆 **Best Electric Sub-Team Member — E-Rally**
+* 🏆 **Best R&D Volunteer — IEEE Helwan**
+* 🏅 **Finalist Graduation Team — Made in Egypt Competition**
+* 🎓 **Graduation Project — Excellent / 93%**
+
+---
+
+## 🎓 Education
+
+**B.Sc. Communication & Electronics Engineering**
+
+Capital (Helwan) University — Cairo, Egypt
+
+**2021 – 2026**
+
+* Cumulative Grade: **Very Good — 82.25%**
+* Graduation Project: **Excellent — 93%**
+
+---
+
+## 📜 Courses & Training
+
+* Embedded Linux Diploma
+* IoT Diploma
+* Wireless Communication for IoT — ITI
+* AI Training — NTI
+* AVR Embedded Systems Diploma
+* Embedded C
+* Linux Administration
+* Model-Based Design Concepts
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adham-amr-1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-amr-1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities and collaborations related to:
+
+**Embedded Systems • Firmware • Embedded Control • Automotive • IoT • R&D • Networking • Light Current • CCTV • Access Control**
+
+<div align="center">
+
+<a href="mailto:adhamamrts@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/adham-amr-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://t.me/Adhooom_1">
+<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Build it. Debug it. Understand it. Improve it."
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
