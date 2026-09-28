@@ -84,42 +84,28 @@ flowchart LR
 ## 🔧 More Projects
 
 <table>
-  <tr>
-    <td width="50%">
 
 ### ⚡ BLDC Sinusoidal PWM
 STM32 Cortex-M4, Embedded C. SPWM drive with smoother torque and lower acoustic noise than trapezoidal control.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Control-BLDC-Sinusoidal_PWM)
 
-    </td>
-    <td width="50%">
-
 ### 🔁 BLDC Trapezoidal PWM
 STM32 Cortex-M3, Embedded C. 6-step commutation with reliable startup and stable operation under varying load.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Control-BLDC-Trapezoidal_PWM)
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
 
 ### 🚙 Autonomous RC Car
 AVR ATmega32, Embedded C. Obstacle avoidance with GPIO, timer-based ultrasonic sensing and PWM motor control. Verified in Proteus and on hardware.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Embedded-RC-Car-Updated-Version)
 
-    </td>
-    <td width="50%">
-
 ### 📡 Multi-Directional Distance Detection
 One MCU controlling multiple ultrasonic sensors with optimized processing and GPIO usage.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adham-amr-1/Multi_Ultrasonic_in_one_MC)
 
-    </td>
-  </tr>
 </table>
 
 ---
