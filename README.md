@@ -1,52 +1,113 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<h3 align="center">
-  Welcome to Adham's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<h1 align="center">Adham Amr Mohamed</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20System%20Developer%20;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer%20;Keep%20It%20Simple%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;Embedded+Control+%7C+Embedded+IoT+%7C+Automotive;Network+%26+Light+Current+Engineer&font=Fira+Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG"/>
 </p>
-Hello and Welcome to my Portfolio 
 
-- 🏢 I'm an Embedded System Developer and a Software Developer specialized in C++
-- 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C++, C language, Python, and Computer Architecture, or anything related to Embedded Systems and Electronics.
-- ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
-  
+<p align="center">
+  <a href="mailto:adhamamrts@outlook.com"><img src="https://img.shields.io/badge/Email-adhamamrts@outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adham-amr-6aa10221a/"><img src="https://img.shields.io/badge/LinkedIn-Adham%20Amr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/Adhooom_1"><img src="https://img.shields.io/badge/Telegram-Adhooom__1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
+## About Me
 
-### Connect with Me :
+I am an Embedded Systems Engineer and a fresh graduate of Communication and Electronics Engineering (Helwan University, class of 2026, graduation project grade: Excellent 93%). I have 2+ years of hands-on experience in firmware and R&D on STM32, AVR and ESP32.
 
-<a href="https://www.linkedin.com/in/adham-amr-6aa10221a/" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Amr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Adhooom_1" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Amr-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/adham.sol" target="_blank"><img src="https://img.shields.io/badge/-Adham%20Amr-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+**Fields:** Embedded Systems · Embedded Control Systems · Embedded IoT · Automotive Systems
 
-### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
-![Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=powerpoint)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Atmel Studio](https://img.shields.io/badge/-Atmel%20Studio%20-05122A?style=flat&logo=atmelstudio)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino)&nbsp;
-![Spyder](https://img.shields.io/badge/-Spyder%20-05122A?style=flat&logo=Spyder)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse%20-05122A?style=flat&logo=Eclipse)&nbsp;
-![Jupyter NoteBook](https://img.shields.io/badge/-Jupyter%20-05122A?style=flat&logo=Jupyter)&nbsp;
+- 🏢 Currently working as a **Network & Light Current Engineer** at Future Smart System (Cairo)
+- 🚗 Built an AI-enhanced Adaptive Cruise Control system as my graduation project, and led a 4-member team
+- 🔧 Learning **PCB Design** and building **secure IoT projects**
+- ⚡ Learning **AutoCAD** for electrical layouts and wiring
+- 🎓 Diplomas: Embedded Linux (Yocto, device drivers), AVR, IoT (ongoing)
+- ☕ Fun fact: my perfect day starts and ends with a cup of coffee
 
+## Featured Project: AI-Enhanced Adaptive Cruise Control
 
+Dual-layer embedded ACC system, validated on real hardware and aligned with ISO 15622 and ISO 26262.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adham-amr-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=Adham-amr-1&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Adham-amr-1&style=for-the-badge">
-</a>
+| Layer | Platform | Role |
+|-------|----------|------|
+| Optimization | Raspberry Pi 5 | MPC controller (OSQP) for speed regulation with hard safety constraints |
+| Actuation | ESP32 | Tustin-discretized PID with anti-windup, MCPWM output, quadrature encoder feedback |
+| Link | Custom UART | 8-byte protocol between both layers |
+
+- Object detection, lane detection and Kalman filter sensor fusion
+- Automatic speed control, cut-in braking, lane curvature monitoring
+- Remote telemetry and FOTA update pipeline
+- Finalist graduation team at the Made in Egypt (MIE) competition, 2026
+
+👉 [Repository](https://github.com/DriveX-Innovation/AI-Enhanced_ACC_with_Integrated_Telemetry_and_FOTA)
+
+## Other Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [BLDC Sinusoidal PWM](https://github.com/Adham-amr-1/Control-BLDC-Sinusoidal_PWM) | SPWM drive with smoother torque and lower acoustic noise than trapezoidal | STM32 Cortex-M4, Embedded C |
+| [BLDC Trapezoidal PWM](https://github.com/Adham-amr-1/Control-BLDC-Trapezoidal_PWM) | 6-step commutation with stable startup under varying load | STM32 Cortex-M3, Embedded C |
+| [Embedded RC Car](https://github.com/Adham-amr-1/Embedded-RC-Car-Updated-Version) | Autonomous obstacle avoidance, validated in Proteus and on hardware | AVR ATmega32, Embedded C |
+| [Multi-Ultrasonic System](https://github.com/Adham-amr-1/Multi_Ultrasonic_in_one_MC) | Multi-directional distance detection with one MCU | AVR, Embedded C |
+
+## Experience
+
+**Network & Light Current Engineer | Future Smart System, Cairo (Aug 2026 to Present)**
+- Install and configure **Access Control Systems** and **CCTV Systems**
+- Build and connect networks on site, including cabling and device configuration
+- Program and configure **routers, switches and Raspberry Pi** according to client requirements
+- Set up advertising screens connected to cameras
+- Repair and upgrade PCs and laptops (disassembly, part replacement)
+
+**Robotics Coach | WiroPlus (Dec 2024 to Jan 2026)**
+- Delivered electronics and robotics curricula to 50+ students, with 4+ hardware projects per semester
+- Raised student engagement by around 25% through project-based learning
+
+**Electric and Embedded Systems Member | E-Rally (Oct 2024 to Sep 2025)**
+- Bare-metal STM32 firmware, PWM and GPIO drivers for an EV rally motor drive
+- Best Electric Sub-Team Member of the Month, Jul 2025
+
+**R&D Volunteer and RAS Project Supervisor | IEEE Helwan (Sep 2023 to Sep 2025)**
+- Led firmware projects and mentored participants across Egypt
+- Best R&D Volunteer First Phase S'25 · 2nd Place and Best Code, Sumo-Robot Competition 2023
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
+
+**Embedded and IoT**
+
+![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-05122A?style=flat)
+![Yocto](https://img.shields.io/badge/-Yocto-05122A?style=flat&logo=yocto)
+![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=mqtt)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![KiCad](https://img.shields.io/badge/-KiCad-05122A?style=flat&logo=kicad)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)
+
+**Protocols:** UART · SPI · I2C · CAN-ready designs · MQTT · HTTP · Wi-Fi · Bluetooth
+**Field skills:** Access Control · CCTV · Structured Cabling · Router/Switch Config · PC Hardware Repair
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adham-amr-1&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adham-amr-1&layout=compact&theme=radical" />
+</p>
+
+## 📫 Let's Connect
+
+Open to junior embedded, firmware and automotive roles. Reach me by email or LinkedIn above.
