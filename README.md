@@ -131,13 +131,10 @@ One MCU controlling multiple ultrasonic sensors with optimized processing and GP
 - Led firmware projects at IEEE events and mentored participants across Egypt
 - Supervised student teams building firefighting robots and sensor automation in C and Arduino
 
-<details>
-<summary><b>🏧 Earlier: ATM Maintenance Technician | Raya IT (Internships 2022 and 2023)</b></summary>
+### ATM Maintenance Technician | Raya IT (Internships 2022 and 2023)</b></summary>
 
 - Maintained and repaired 20+ ATM machines, diagnosing board-level, component-level and firmware faults
 - Trained and guided 5+ junior technicians during field operations
-
-</details>
 
 ---
 
@@ -178,21 +175,6 @@ One MCU controlling multiple ultrasonic sensors with optimized processing and GP
 - 🏎️ Best Electric Sub-Team Member of the Month, E-Rally, Jul 2025
 - 🌟 Best R&D Volunteer First Phase S'25, IEEE HSB, Oct 2024
 - 🤖 2nd Place and Best Code, Sumo-Robot Competition, Dec 2023
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adham-amr-1&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-amr-1&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adham-amr-1&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adham-amr-1&theme=react-dark&hide_border=true" width="95%"/>
-</p>
 
 ---
 
