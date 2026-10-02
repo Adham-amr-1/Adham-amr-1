@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:adhamamrts@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adham-amr-6aa10221a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adhamamr-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/Adhooom_1"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/Adham-amr-1?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
