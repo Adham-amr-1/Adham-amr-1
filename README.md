@@ -184,7 +184,7 @@ Open to junior **embedded, firmware and automotive** roles. I am also available 
 
 <p align="center">
   <a href="mailto:adhamamrts@outlook.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/adham-amr-6aa10221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adham-amr-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
